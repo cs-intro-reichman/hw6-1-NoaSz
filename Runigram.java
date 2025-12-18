@@ -254,4 +254,4 @@ public class Runigram {
 		}
 		StdDraw.show();
 	}
-}runigram
+}
